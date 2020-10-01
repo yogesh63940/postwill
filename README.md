@@ -115,7 +115,7 @@ end
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/postwill/postwill.
+Bug reports and pull requests are welcome on GitHub at https://github.com/postwill/postwill.It will be highly appreciable.
 
 ## License
 
